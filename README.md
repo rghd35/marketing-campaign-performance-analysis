@@ -19,7 +19,7 @@ This project analyzes 18,000 marketing campaign records to explore sales revenue
 ## Power BI Dashboard
 The dashboard presents marketing KPIs, revenue trends, channel and customer segment performance, advertising efficiency, and the relationships between campaign characteristics and sales revenue.
 
-![Marketing Campaign Dashboard](dashboard/dashboard_screenshot.png)
+![Marketing Campaign Dashboard](dashboard_screenshot.png)
 
 ## Project Files
 - `notebooks/Marketing_Campaign_EDA.ipynb` — Python data cleaning and exploratory analysis
